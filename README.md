@@ -16,7 +16,10 @@ using an implemented design on your Basys3 boards.
 ## Lab Summary
 
 Summarize your learnings from the lab here.
-
+We learned write SOP and POS in verilog. The symbols and the gates.
+We learned how use navigate and use the schematic to find our truth table.
+We also learned how to view the gates diagram.
+We learned how to debug and make sure our code matches.
 ## Lab Questions
 
 ### Why are the groups of 1’s (or 0’s) that we select in the KMap able to go across edges?
